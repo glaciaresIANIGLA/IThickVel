@@ -1,5 +1,5 @@
 # IThickVel
-Ice thickness distribution from surface velocity 
+Glacier ice thickness distribution from surface velocity inversion method.
 
 Matlab function to derived glaciers ice thickness distribution from surface velocity like Gantayat et al. (2014) developed by Lucas Ruiz.
 
